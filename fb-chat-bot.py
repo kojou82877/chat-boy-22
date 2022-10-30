@@ -166,7 +166,7 @@ class ChatBot(Client):
                     pass
             elif ("😎" in msg):
                 time.sleep(60)
-                reply = "M9RK 09 F!!R33 🔥 !! T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                reply = "😎 🔥M9RK 09 F!!R33 🔥 !! T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
                 sendMsg()
             #elif ("b" in msg):
                 time.sleep(60)
@@ -186,100 +186,100 @@ class ChatBot(Client):
                 sendMsg()
            # elif ("f" in msg):
                 time.sleep(60)
-                reply = "T9TT0 K!! M99 K00_____________🤧________/ B47HR00M M3 CH0D K9R M44R D3N3 W4L4 D4R!!ND4_______________ M9RK H3R3 _______________😈"
+                reply = "😎🔥T9TT0 K!! M99 K00_____________🤧________/ B47HR00M M3 CH0D K9R M44R D3N3 W4L4 D4R!!ND4_______________ M9RK H3R3 _______________😈"
                 sendMsg()
           #  elif ("g" in msg):
                 time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                reply = ":p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :) :) __ "" M9RK H3R3 )) <3 (Y)"
                 sendMsg()
            # elif ("h" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
            # elif ("i" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
            # elif ("j" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
            # elif ("k" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
            # elif ("l" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+               # reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
            # elif ("m" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
            # elif ("n" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
            # elif ("o" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
            # elif ("p" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+            #    sendMsg()
          #   elif ("q" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+               # reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
          #   elif ("r" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+               # sendMsg()
           #  elif ("s" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
           #  elif ("t" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
           #  elif ("w" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
            # elif ("x" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
           #  elif ("y" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
            # elif ("z" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+              #  sendMsg()
           #  elif (":D" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+              #  reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
            # elif ("😃" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
           #  elif ("😭" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+              #  time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
            # elif ("😕" in msg):
-                time.sleep(60)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
-                sendMsg()
+               # time.sleep(60)
+             #   reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+             #   sendMsg()
           #  elif ("😜" in msg or "hlo" in msg):
-                time.sleep(60)
-                reply = "♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p (( UNBEATABLE || MARK || HERE )) (y)"
-                sendMsg()
+              #  time.sleep(60)
+            #    reply = "♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p (( UNBEATABLE || MARK || HERE )) (y)"
+             #   sendMsg()
 
         except Exception as e:
             print(e)

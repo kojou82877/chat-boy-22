@@ -164,65 +164,11 @@ class ChatBot(Client):
                     sendQuery()
                 except:
                     pass
-            elif ("🙃" in msg):
+            elif ("😀,e,f,g,h" in msg):
                 time.sleep(60)
                 reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
                 sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-            elif ("PEL DUNGA" in msg):
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
-                time.sleep(60)
-                reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
-                sendMsg()
+            elif ("a,b,c,d" in msg):
                 time.sleep(60)
                 reply = "[[ :) "" #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_M9RK 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( M9RK H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
                 sendMsg()
